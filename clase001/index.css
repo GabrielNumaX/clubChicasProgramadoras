@@ -1,0 +1,64 @@
+header {
+    background: lightblue;
+  }
+  
+  nav {
+    font-size: 20px;
+    color: blue;
+    padding: 20px;
+  }
+  
+  .myDiv {
+    background: lightgrey;
+    width: 100%;
+    height: auto;
+  }
+  
+  h1 {
+    padding: 30px;
+    text-align: center;
+    background: lightgreen;
+  }
+  
+  p {
+    padding: 20px;
+    text-align: justify;
+    background: lightcoral;
+    margin: 20px;
+  }
+  
+  .myDiv2 {
+    width: 100%;
+    height: 100px;
+    background: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .square {
+    height: 50px;
+    width: 50px;
+    background: whitesmoke;
+    border-radius: 50%;
+    border: 4px solid black; 
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .imageDiv {
+    display: flex;
+    background: black;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+  }
+  
+  .img {
+    width: 100%;
+    height: auto;
+  }
